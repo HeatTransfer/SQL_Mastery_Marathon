@@ -18,6 +18,4 @@ The primary goal of this repository is to serve as a learning resource for indiv
 
 ## Get Started
 Ready to embark on your SQL mastery journey? Dive into the challenges and start honing your SQL skills today! Let's begin!
-![istockphoto-908654996-612x612](https://github.com/HeatTransfer/SQL_Mastery_Marathon/assets/53636141/45f2b75c-3adc-457e-93d4-8ddf8fc6663d)
-
-
+![Let'SGetStartedGIF](https://github.com/HeatTransfer/SQL_Mastery_Marathon/assets/53636141/4530e754-514d-4a9d-8b5a-4dd95c8725cc)
