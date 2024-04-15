@@ -16,6 +16,5 @@ The primary goal of this repository is to serve as a learning resource for indiv
 - Window Functions
 - Advanced SQL Techniques
 
-## Get Started
-Ready to embark on your SQL mastery journey? Dive into the challenges and start honing your SQL skills today! Let's begin!
+## 
 ![Let'SGetStartedGIF](https://github.com/HeatTransfer/SQL_Mastery_Marathon/assets/53636141/4530e754-514d-4a9d-8b5a-4dd95c8725cc)
