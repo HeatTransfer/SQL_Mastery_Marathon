@@ -1,4 +1,4 @@
-### Problem Statement
+## Problem Statement
 
 There is an employee table with 4 columns: EmployeeID, Name, DepartmentID, Salary<br>
 <br>
