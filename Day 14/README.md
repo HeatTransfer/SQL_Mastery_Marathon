@@ -1,6 +1,6 @@
 ## Problem Statement
 
-This question is taken from Leetcode: https://leetcode.com/problems/monthly-transactions-i/
+This question is taken from Leetcode: https://leetcode.com/problems/product-sales-analysis-iii/
 
 ### Approach
 I have tried to solve the problem in 3 different methods.
