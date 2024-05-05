@@ -8,4 +8,4 @@ This question is taken from Leetcode: https://leetcode.com/problems/product-pric
 <li>Date function</li>
 <br>
 
-![DoThisGIF](https://github.com/HeatTransfer/SQL_Mastery_Marathon/assets/53636141/0c0a6638-012a-4484-b760-67e655b547b8)
+![LetsTryPrabhasGIF](https://github.com/HeatTransfer/SQL_Mastery_Marathon/assets/53636141/468e5799-0f3f-435b-a230-8a9fd537d250)
