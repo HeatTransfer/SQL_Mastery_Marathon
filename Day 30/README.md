@@ -9,7 +9,7 @@ This folder contains 4 challenges:
     <li>Challenge 4 - https://leetcode.com/problems/find-users-with-valid-e-mails/</li>
   </ul>
 
-#### <i>This is the last challenge(s)🤩 in SQL Mastery Marathon. I learnt a lot, and hopefully you too.</i>
+#### <i>N.B. This is the last challenge(s)🤩 in SQL Mastery Marathon. I learnt a lot, and hopefully you too.</i>
 #### Take some time to congratulate yourself for coming this long🎉
 
 ![DespicableMeMinionsGIF](https://github.com/HeatTransfer/SQL_Mastery_Marathon/assets/53636141/3a849367-16d1-4193-a241-3dda9b0b2c49)
